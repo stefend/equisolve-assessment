@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/equisolve-assessment/static/css/main.b5e06dde.chunk.css",
+    "main.js": "/equisolve-assessment/static/js/main.cddfc836.chunk.js",
+    "main.js.map": "/equisolve-assessment/static/js/main.cddfc836.chunk.js.map",
+    "runtime-main.js": "/equisolve-assessment/static/js/runtime-main.d0e50b6f.js",
+    "runtime-main.js.map": "/equisolve-assessment/static/js/runtime-main.d0e50b6f.js.map",
+    "static/js/2.4883ca2b.chunk.js": "/equisolve-assessment/static/js/2.4883ca2b.chunk.js",
+    "static/js/2.4883ca2b.chunk.js.map": "/equisolve-assessment/static/js/2.4883ca2b.chunk.js.map",
+    "static/js/3.3845ac37.chunk.js": "/equisolve-assessment/static/js/3.3845ac37.chunk.js",
+    "static/js/3.3845ac37.chunk.js.map": "/equisolve-assessment/static/js/3.3845ac37.chunk.js.map",
+    "index.html": "/equisolve-assessment/index.html",
+    "static/css/main.b5e06dde.chunk.css.map": "/equisolve-assessment/static/css/main.b5e06dde.chunk.css.map",
+    "static/js/2.4883ca2b.chunk.js.LICENSE.txt": "/equisolve-assessment/static/js/2.4883ca2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0e50b6f.js",
+    "static/js/2.4883ca2b.chunk.js",
+    "static/css/main.b5e06dde.chunk.css",
+    "static/js/main.cddfc836.chunk.js"
+  ]
+}
