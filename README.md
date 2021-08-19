@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### TODO ###
+1. Trap focus on modal to allow for keyboard navigation to close icon. Implement keydown events for space and enter to close modal.
+2. Keep working on responsive mobile-first breakpoints
+3. Consider switching to Tailwind, MaterialUI, or Bootstrap for a new challenge/faster implementation

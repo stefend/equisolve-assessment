@@ -1,0 +1,35 @@
+.card {
+    background: #ffffff;
+    margin-bottom: 30px;
+    max-width: 370px;
+}
+
+.content {
+    padding: 40px
+}
+
+.name {
+    margin: 0 0 8px;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 130%;
+}
+
+.title {
+    margin: 0 0 32px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 160%;
+    color: #2541D4;
+}
+
+.link {
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 125%;
+    cursor: pointer;
+    background: none;
+    border: 0;
+    padding: 0;
+}
